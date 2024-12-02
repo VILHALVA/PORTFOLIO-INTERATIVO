@@ -23,9 +23,9 @@ Este projeto é um **portfólio interativo** que permite exibir seus projetos de
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns subsidios:
-* [VEJA A DOCUMENTAÇÃO DO SWIPERJS](https://swiperjs.com/)
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CURSO DE SWIPER](https://github.com/VILHALVA/CURSO-DE-SWIPER)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
